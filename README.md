@@ -1,2 +1,2 @@
 # MCP-Universe-Research
-A comprehensive evaluation framework for LLMs using the Model Context Protocol (MCP) technique
+A comprehensive evaluation framework for LLMs to use the novel MCP technique.
